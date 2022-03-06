@@ -3,11 +3,22 @@ body{
     margin: 0%;
 }
 h1{
-    font-size: 30px;
+    font-size: 40px;
 }
 p{
     font-size: 20px;
 }
 .orange{
     color: orange;
+}
+.flex{
+    display: flex;
+    margin-bottom: auto;
+}
+.width{
+    width: 80%;
+    padding: 10%;
+}
+.width img{
+    width: 135%;   
 }
