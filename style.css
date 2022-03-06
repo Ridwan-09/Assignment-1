@@ -1,3 +1,13 @@
 body{
     font-family: 'Roboto', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.orange{
+    color: orange;
 }
