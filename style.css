@@ -16,17 +16,21 @@ p{
     margin-bottom: auto;
 }
 .width{
-    width: 80%;
-    padding: 10%;
+    width: 35%;
+    padding: 50px;
 }
 .width img{
-    width: 135%;   
+    width: 600px;   
 }
 .button{
     text-decoration: none;
     background-image: linear-gradient(orange, red);
     color: white;
-    padding: 15px 25px 15px 25px;
+    padding: 15px 20px 15px 20px;
     border-radius: 30px;
     font-weight: 700;
+}
+.banner{
+    background-image: url(Images/7.png);
+    background-repeat: no-repeat;
 }
