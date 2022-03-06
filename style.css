@@ -22,3 +22,11 @@ p{
 .width img{
     width: 135%;   
 }
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    color: white;
+    padding: 15px 25px 15px 25px;
+    border-radius: 30px;
+    font-weight: 700;
+}
